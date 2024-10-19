@@ -11,4 +11,18 @@ body {
   background-image: url(../images/lexi-laginess-6poDd1l6UlM-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: auto 100vh;
+  display: flex;
+}
+
+.left, .right {
+  min-height: 100vh;
+}
+
+.left {
+  width: 40%;
+  color: white;
+}
+
+.right {
+  width: 60%;
 }
