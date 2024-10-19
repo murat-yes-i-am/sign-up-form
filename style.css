@@ -9,5 +9,5 @@
 body {
   background-image: url(images/lexi-laginess-6poDd1l6UlM-unsplash.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: auto 100vh;
 }
