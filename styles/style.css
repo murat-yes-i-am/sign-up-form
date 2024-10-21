@@ -100,6 +100,14 @@ h1 {
   font-weight: 600;
 }
 
+.right__bottom {
+  padding: 1rem;
+}
+
+.right__bottom button, .right__bottom p {
+  margin: 1rem;
+}
+
 button {
   min-width: 25ch;
   padding: 1em;
