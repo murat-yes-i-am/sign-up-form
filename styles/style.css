@@ -57,3 +57,9 @@ h1 {
   background-color: white;
   box-shadow: 0 2px 4px 0 gray;
 }
+
+.right__top {
+  padding: 1rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
