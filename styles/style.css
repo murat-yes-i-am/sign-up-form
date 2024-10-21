@@ -37,6 +37,7 @@ h1 {
 
 .image-author-credits {
   margin: auto auto 1em;
+  text-shadow: 2px 2px 4px black;
 }
 
 .image-author-credits a {
