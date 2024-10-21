@@ -14,6 +14,11 @@ body {
   display: flex;
 }
 
+.odin-logo {
+  display: inline;
+  height: 6rem;
+}
+
 h1 {
   font-family: 'norsebold';
   font-size: 4rem;
