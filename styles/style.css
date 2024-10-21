@@ -70,7 +70,13 @@ h1 {
 #sign-up-form {
   background-color: white;
   box-shadow: 0 2px 4px 0 gray;
-  padding: 1rem 2rem;
+  padding: 1rem;
+}
+
+#sign-up-form p {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 1rem;
 }
 
 .field label {
