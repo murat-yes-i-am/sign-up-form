@@ -72,3 +72,7 @@ h1 {
   box-shadow: 0 2px 4px 0 gray;
   padding: 1rem 2rem;
 }
+
+.field label {
+  display: block;
+}
