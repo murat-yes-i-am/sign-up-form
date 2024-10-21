@@ -88,6 +88,8 @@ h1 {
 
 .field label {
   display: block;
+  font-weight: 500;
+  text-transform: uppercase;
 }
 
 .field input {
