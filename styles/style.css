@@ -71,6 +71,8 @@ h1 {
   background-color: white;
   box-shadow: 0 2px 4px 0 gray;
   padding: 1rem;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 #sign-up-form p {
