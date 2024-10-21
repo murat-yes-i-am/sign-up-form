@@ -79,6 +79,10 @@ h1 {
   margin: 1rem;
 }
 
+.field {
+  padding: 1rem;
+}
+
 .field label {
   display: block;
 }
