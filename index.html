@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,25 +9,29 @@
   <link rel="stylesheet" href="styles/my-normalize-reset.css">
   <link rel="stylesheet" href="styles/style.css">
 </head>
+
 <body>
   <div class="left">
     <h1><img class="odin-logo" src="images/odin-lined.png" alt="Odin logo">ODIN</h1>
 
     <div class="image-author-credits">
-      Photo by <a href="https://unsplash.com/@lexilaginess" target="_blank">Lexi Laginess</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a>
+      Photo by <a href="https://unsplash.com/@lexilaginess" target="_blank">Lexi Laginess</a> on <a
+        href="https://unsplash.com/" target="_blank">Unsplash</a>
     </div>
   </div>
   <div class="right">
     <div>
-      <p>
-        This is not a real online service. 
-        You know you need somthing like this in your life to help you realize your deepest dreams. 
-        Sign up <em>now</em> to get started.
-      </p>
-      <p>
-        You <em>know</em> you want to.
-      </p>
-      <form id="sign-up-form" action="">
+      <div class="right__top">
+        <p>
+          This is not a real online service.
+          You know you need somthing like this in your life to help you realize your deepest dreams.
+          Sign up <em>now</em> to get started.
+        </p>
+        <p>
+          You <em>know</em> you want to.
+        </p>
+      </div>
+      <form class="right__middle" id="sign-up-form" action="">
         <h2>Let's do this!</h2>
 
         <label for="first-name">First Name</label>
@@ -54,11 +59,14 @@
         <div class="error" id="confirm-password-error"></div>
       </form>
 
-      <button form="sign-up-form">Create Account</button>
+      <div class="right__bottom">
+        <button form="sign-up-form">Create Account</button>
 
-      <p>Already have an account? <a href="">Log in</a></p>
+        <p>Already have an account? <a href="">Log in</a></p>
+      </div>
     </div>
   </div>
 
 </body>
+
 </html>
