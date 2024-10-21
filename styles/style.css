@@ -89,3 +89,10 @@ h1 {
 .field label {
   display: block;
 }
+
+.field input {
+  padding: 0.5em;
+  width: 20ch;
+  border: 2px solid rgb(235, 235, 235);
+  border-radius: 5px;
+}
