@@ -39,6 +39,10 @@ h1 {
   margin: auto auto 1em;
 }
 
+.image-author-credits a {
+  color: white;
+}
+
 .left, .right {
   min-height: 100vh;
 }
