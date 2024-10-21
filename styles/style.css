@@ -58,3 +58,8 @@ h1 {
   background-color: rgb(245, 245, 245);
   padding: 2rem;
 }
+
+#sign-up-form {
+  background-color: white;
+  box-shadow: 0 2px 4px 0 gray;
+}
