@@ -56,12 +56,6 @@ h1 {
   justify-content: center;
 }
 
-#sign-up-form {
-  background-color: white;
-  box-shadow: 0 2px 4px 0 gray;
-  padding: 1rem 2rem;
-}
-
 .right__top {
   padding: 1rem;
   font-size: 1.25rem;
@@ -71,4 +65,10 @@ h1 {
 .right__top p {
   margin: 1rem;
   max-width: 60ch;
+}
+
+#sign-up-form {
+  background-color: white;
+  box-shadow: 0 2px 4px 0 gray;
+  padding: 1rem 2rem;
 }
