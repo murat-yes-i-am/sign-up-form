@@ -59,6 +59,7 @@ h1 {
 #sign-up-form {
   background-color: white;
   box-shadow: 0 2px 4px 0 gray;
+  padding: 1rem 2rem;
 }
 
 .right__top {
